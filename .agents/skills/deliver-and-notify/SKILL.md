@@ -7,7 +7,7 @@
 1. `vercel --prod` で本番デプロイし、URL を控える
 2. `scripts/notify-delivery.sh <本番URL>` を実行して社内 Slack の #design-delivery に納品連絡を流す
 3. 依頼者へは Chatwork で検収依頼を送る（テンプレは knowledge/delivery-template.md）
-4. 検収 OK が出たら、请求フロー（skills/client-billing）に進む
+4. 検収 OK が出たら、请求フロー（.agents/skills/client-billing）に進む
 
 ## 注意
 
